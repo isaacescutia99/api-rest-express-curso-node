@@ -1,0 +1,7 @@
+{
+    "nombre":"Configura de entorno de desarrollador",
+    "configBD":{
+        "host":"prueba-bd-server"
+    }
+    
+}

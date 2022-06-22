@@ -1,0 +1,7 @@
+{
+    "nombre":"Configura de entorno de produccion",
+    "configBD":{
+        "host":"produccion-bd-server"
+    }
+    
+}
